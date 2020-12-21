@@ -18,11 +18,11 @@ O Objetivo do desafio consiste em conhecer melhor as habilidades técnicas dos p
 
 Gostaríamos que nos entregasse uma aplicação utilizando a api do GITHUB https://developer.github.com/v3/ consumindo os seguintes endpoints:
 
-Endpoint user: https://api.github.com/users/USER_GITHUB
+ - Endpoint user: https://api.github.com/users/USER_GITHUB
 
-Endpoint repos: https://api.github.com/users/USER_GITHUB/repos
+ - Endpoint repos: https://api.github.com/users/USER_GITHUB/repos
 
-Endpoint starred: https://api.github.com/users/USER_GITHUB/starred{/owner}{/repo}
+ - Endpoint starred: https://api.github.com/users/USER_GITHUB/starred{/owner}{/repo}
 
 A aplicação deverá constituir três componentes principais:
 
