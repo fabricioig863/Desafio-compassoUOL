@@ -5,11 +5,11 @@
 
 Para inicializar o projeto execute os seguintes comandos:
 
-npm i 
+`npm i` 
 
-npm cd desafiocompasso
+`npm cd desafiocompasso `
 
-npm start 
+`npm start `
 
 
 # Sobre o Desafio
